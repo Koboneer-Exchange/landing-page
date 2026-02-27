@@ -27,11 +27,9 @@ export function HeroSection() {
         <div className="flex flex-col items-center text-center max-w-4xl mx-auto">
 
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight text-foreground leading-[1.1] text-balance mt-8">
-            Cash out your
+            Cash out <span className="text-primary">&nbsp;{rotatingTexts[currentIndex]}&nbsp;</span>
             <br />
-            <span className="text-primary">&nbsp;{rotatingTexts[currentIndex]}&nbsp;</span>
-            <br />
-            to naira on WhatsApp seamlessly
+            to naira on WhatsApp
           </h1>
 
           <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-2xl leading-relaxed text-pretty">
