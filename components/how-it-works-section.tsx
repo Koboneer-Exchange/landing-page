@@ -13,7 +13,7 @@ const STEPS = [
     icon: ArrowDownToLine,
     title: "Deposit Your Asset",
     description:
-      "Upload gift card details, deposit crypto to a generated wallet, or send e-currency to the provided account.",
+      "Upload gift card details, or deposit crypto to a generated wallet to the provided account.",
   },
   {
     step: "03",

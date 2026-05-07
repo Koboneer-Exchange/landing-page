@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faWhatsapp } from "@fortawesome/free-brands-svg-icons"
 
 export function HeroSection() {
-  const rotatingTexts = ["Giftcard", "Crypto", "e-currency"]
+  const rotatingTexts = ["Giftcard", "Crypto"]
   const [currentIndex, setCurrentIndex] = useState(0)
 
   useEffect(() => {

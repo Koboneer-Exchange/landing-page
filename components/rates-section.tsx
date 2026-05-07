@@ -30,13 +30,7 @@ const RATES = [
     label: "Gift Card",
     rate: "1,180",
     type: "Gift Card",
-  },
-  {
-    asset: "PayPal",
-    label: "E-Currency",
-    rate: "1,450",
-    type: "E-Currency",
-  },
+  }
 ]
 
 export function RatesSection() {

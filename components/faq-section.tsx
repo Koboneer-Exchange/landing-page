@@ -7,7 +7,7 @@ const FAQS = [
   {
     question: "How does Koboneer work?",
     answer:
-      "Simply message us on WhatsApp, tell us what you want to convert (crypto, gift cards, or e-currency), and we will give you a live rate. Once you confirm and send your asset, we process the payment directly to your bank account.",
+      "Simply message us on WhatsApp, tell us what you want to convert (crypto or gift cards), and we will give you a live rate. Once you confirm and send your asset, we process the payment directly to your bank account.",
   },
   {
     question: "What assets can I convert?",
